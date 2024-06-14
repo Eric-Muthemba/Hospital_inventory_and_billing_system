@@ -10,7 +10,6 @@ Welcome to Eric Muthemba Kiarie, Ilara health case study submission.
 
 ### Step 2: ⚙️ Setup Environment Configuration
 
-- Navigate `cd backend`
 - Create `.env`: Copy `.env.template` to `.env`
 - Update `.env`: Fill in necessary environment variables
 
