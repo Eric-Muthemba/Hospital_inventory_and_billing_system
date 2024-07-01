@@ -16,4 +16,10 @@ Welcome to Eric Muthemba Kiarie, Ilara health case study submission.
 
 ### Step 3: 🏃‍♂️ Running the Project
 
-- Development Mode: `docker-compose up --build`
+- Development Mode: `docker-compose up --build` to run the database
+
+#### Step 4: 🏃 follow the specific ReadMe in the  backend
+#### Step 5: 🏃 follow the specific ReadMe in the  frontend
+
+
+
